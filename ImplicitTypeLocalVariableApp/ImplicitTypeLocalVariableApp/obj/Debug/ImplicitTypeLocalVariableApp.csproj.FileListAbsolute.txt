@@ -1,0 +1,6 @@
+D:\asp.net\6.2.15\ImplicitTypeLocalVariableApp\ImplicitTypeLocalVariableApp\bin\Debug\ImplicitTypeLocalVariableApp.exe.config
+D:\asp.net\6.2.15\ImplicitTypeLocalVariableApp\ImplicitTypeLocalVariableApp\bin\Debug\ImplicitTypeLocalVariableApp.exe
+D:\asp.net\6.2.15\ImplicitTypeLocalVariableApp\ImplicitTypeLocalVariableApp\bin\Debug\ImplicitTypeLocalVariableApp.pdb
+D:\asp.net\6.2.15\ImplicitTypeLocalVariableApp\ImplicitTypeLocalVariableApp\obj\Debug\ImplicitTypeLocalVariableApp.csprojResolveAssemblyReference.cache
+D:\asp.net\6.2.15\ImplicitTypeLocalVariableApp\ImplicitTypeLocalVariableApp\obj\Debug\ImplicitTypeLocalVariableApp.exe
+D:\asp.net\6.2.15\ImplicitTypeLocalVariableApp\ImplicitTypeLocalVariableApp\obj\Debug\ImplicitTypeLocalVariableApp.pdb

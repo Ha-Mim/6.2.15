@@ -1,0 +1,6 @@
+D:\asp.net\6.2.15\LambaExpression2\LambaExpression2\bin\Debug\LambaExpression2.exe.config
+D:\asp.net\6.2.15\LambaExpression2\LambaExpression2\bin\Debug\LambaExpression2.exe
+D:\asp.net\6.2.15\LambaExpression2\LambaExpression2\bin\Debug\LambaExpression2.pdb
+D:\asp.net\6.2.15\LambaExpression2\LambaExpression2\obj\Debug\LambaExpression2.exe
+D:\asp.net\6.2.15\LambaExpression2\LambaExpression2\obj\Debug\LambaExpression2.pdb
+D:\asp.net\6.2.15\LambaExpression2\LambaExpression2\obj\Debug\LambaExpression2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\asp.net\6.2.15\LinqApp\LinqApp\bin\Debug\LinqApp.exe.config
+D:\asp.net\6.2.15\LinqApp\LinqApp\bin\Debug\LinqApp.exe
+D:\asp.net\6.2.15\LinqApp\LinqApp\bin\Debug\LinqApp.pdb
+D:\asp.net\6.2.15\LinqApp\LinqApp\obj\Debug\LinqApp.exe
+D:\asp.net\6.2.15\LinqApp\LinqApp\obj\Debug\LinqApp.pdb

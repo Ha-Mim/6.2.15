@@ -1,0 +1,5 @@
+D:\asp.net\6.2.15\LambaExpression1\LambaExpression1\bin\Debug\LambaExpression1.exe.config
+D:\asp.net\6.2.15\LambaExpression1\LambaExpression1\bin\Debug\LambaExpression1.exe
+D:\asp.net\6.2.15\LambaExpression1\LambaExpression1\bin\Debug\LambaExpression1.pdb
+D:\asp.net\6.2.15\LambaExpression1\LambaExpression1\obj\Debug\LambaExpression1.exe
+D:\asp.net\6.2.15\LambaExpression1\LambaExpression1\obj\Debug\LambaExpression1.pdb

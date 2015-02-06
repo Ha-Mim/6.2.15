@@ -1,0 +1,6 @@
+D:\asp.net\6.2.15\ObjectAndCollectionInitialization\ObjectAndCollectionInitialization\bin\Debug\ObjectAndCollectionInitialization.exe.config
+D:\asp.net\6.2.15\ObjectAndCollectionInitialization\ObjectAndCollectionInitialization\obj\Debug\ObjectAndCollectionInitialization.csprojResolveAssemblyReference.cache
+D:\asp.net\6.2.15\ObjectAndCollectionInitialization\ObjectAndCollectionInitialization\bin\Debug\ObjectAndCollectionInitialization.exe
+D:\asp.net\6.2.15\ObjectAndCollectionInitialization\ObjectAndCollectionInitialization\bin\Debug\ObjectAndCollectionInitialization.pdb
+D:\asp.net\6.2.15\ObjectAndCollectionInitialization\ObjectAndCollectionInitialization\obj\Debug\ObjectAndCollectionInitialization.exe
+D:\asp.net\6.2.15\ObjectAndCollectionInitialization\ObjectAndCollectionInitialization\obj\Debug\ObjectAndCollectionInitialization.pdb

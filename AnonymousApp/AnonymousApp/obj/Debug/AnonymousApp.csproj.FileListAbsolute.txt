@@ -1,0 +1,5 @@
+D:\asp.net\6.2.15\AnonymousApp\AnonymousApp\bin\Debug\AnonymousApp.exe.config
+D:\asp.net\6.2.15\AnonymousApp\AnonymousApp\bin\Debug\AnonymousApp.exe
+D:\asp.net\6.2.15\AnonymousApp\AnonymousApp\bin\Debug\AnonymousApp.pdb
+D:\asp.net\6.2.15\AnonymousApp\AnonymousApp\obj\Debug\AnonymousApp.exe
+D:\asp.net\6.2.15\AnonymousApp\AnonymousApp\obj\Debug\AnonymousApp.pdb

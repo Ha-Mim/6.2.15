@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ExtensionMethod
+{
+    class Calculator
+    {
+        public double Add(double firstNo, double secoundNo)
+        {
+            return firstNo + secoundNo;
+        }
+    }
+}
